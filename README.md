@@ -35,3 +35,4 @@ Se você precisa de um livro para estudar linguagem C, de uma olhada em Introdu�
 
 Na página do Projeto Macmulti (http://www.ime.usp.br/~macmulti), você pode encontrar links para a História do Computador e vários problemas simples resolvidos em C e Python.
 
+Link completo da matéria: (http://www.vision.ime.usp.br/~pmiranda/mac122_2s18/page/mac122_2s18.html)
